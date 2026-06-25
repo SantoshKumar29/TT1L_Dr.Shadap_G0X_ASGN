@@ -31,7 +31,7 @@ The objective is to classify user reviews into sentiment categories and compare 
 
 # 🚀 Project Pipeline
 
-The complete workflow is implemented in **`CDS6344_Code.ipynb`** and consists of three major phases:
+The complete workflow is implemented in **`Assignment_CDS6344.ipynb`** and consists of three major phases:
 
 ## 1️⃣ Data Preprocessing
 
@@ -93,7 +93,7 @@ Additional analyses include:
 ```text
 TikTok-App-Reviews-Sentiment-Analysis/
 │
-├── CDS6344_Code.ipynb          # Main Jupyter Notebook
+├── Assignment_CDS6344.ipynb    # Main Jupyter Notebook
 ├── dataset/                    # Raw and processed datasets
 ├── images/                     # Visualization screenshots
 ├── results/                    # Model outputs and evaluation results
@@ -141,7 +141,7 @@ TikTok-App-Reviews-Sentiment-Analysis/
 Open the notebook:
 
 ```text
-CDS6344_Code.ipynb
+Assignment_CDS6344.ipynb
 ```
 
 ### Step 2
@@ -186,7 +186,7 @@ jupyter notebook
 Open:
 
 ```text
-CDS6344_Code.ipynb
+Assignment_CDS6344.ipynb
 ```
 
 Run all cells sequentially.
