@@ -8,16 +8,16 @@
 | -------------------- | ------------------------------------- |
 | **Course**           | CDS6344 – Social Media Computing      |
 | **Project Title**    | TikTok App Reviews Sentiment Analysis |
-| **Tutorial Section** | TTXL / TXXL                           |
+| **Tutorial Section** | TC1L / TT1L                           |
 | **Group Number**     | G0X                                   |
 
 ### 👥 Team Members
 
-| Member   | Student ID | Responsibility                   |
-| -------- | ---------- | -------------------------------- |
-| Member 1 | XXXXXXXX   | Data Preprocessing               |
-| Member 2 | XXXXXXXX   | Modeling (ML, DL & Transformers) |
-| Member 3 | XXXXXXXX   | Evaluation & Visualization       |
+| Member                           | Student ID   | Responsibility                   |
+| -------------------------------- | ------------ | ---------------------------------|
+| Arvind A/L Gopalakrishna Thevar  | 1211104071   | Data Preprocessing               |
+| Santoshkumar A/L K Munusamy      | 241UC240LW   | Modeling (ML, DL & Transformers) |
+| Member 3                         | XXXXXXXX     | Evaluation & Visualization       |
 
 ---
 
