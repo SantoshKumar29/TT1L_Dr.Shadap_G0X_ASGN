@@ -96,10 +96,8 @@ TikTok-App-Reviews-Sentiment-Analysis/
 ├── Assignment_CDS6344.ipynb    # Main Jupyter Notebook
 ├── dataset/                    # Raw and processed datasets
 ├── images/                     # Visualization screenshots
-├── results/                    # Model outputs and evaluation results
-├── README.md                   # Project documentation
-│
-└── requirements.txt            # Required Python packages (optional)
+└── README.md                   # Project documentation
+
 ```
 
 ---
