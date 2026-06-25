@@ -93,10 +93,10 @@ Additional analyses include:
 ```text
 TikTok-App-Reviews-Sentiment-Analysis/
 │
-├── Assignment_CDS6344.ipynb    # Main Jupyter Notebook
-├── dataset/                    # Raw and processed datasets
-├── images/                     # Visualization screenshots
-└── README.md                   # Project documentation
+├── Assignment_CDS6344.ipynb                 # Main Jupyter Notebook
+├── TikTok Reviews Sentiment Analysis.csv    # Raw dataset
+├── images/                                  # Visualization screenshots
+└── README.md                                # Project documentation
 
 ```
 
