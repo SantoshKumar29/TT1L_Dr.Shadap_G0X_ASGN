@@ -169,12 +169,6 @@ The notebook will automatically execute:
 
 ## Option 2: Local Environment
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Launch Jupyter Notebook:
 
 ```bash
