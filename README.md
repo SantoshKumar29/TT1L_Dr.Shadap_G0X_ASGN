@@ -17,7 +17,7 @@
 | -------------------------------- | ------------ | ---------------------------------|
 | Arvind A/L Gopalakrishna Thevar  | 1211104071   | Data Preprocessing               |
 | Santoshkumar A/L K Munusamy      | 241UC240LW   | Modeling (ML, DL & Transformers) |
-| Member 3                         | XXXXXXXX     | Evaluation & Visualization       |
+| Sameer Shriraaj A/L M Ravichandran                         | 1221304551     | Evaluation & Visualization       |
 
 ---
 
